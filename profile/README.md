@@ -20,7 +20,7 @@ Tools for creating attractive output formats from aligned parallel texts.
 
 Application for pronunciation training. Powered by neural networks, speech signal processing techniques, and speech-to-text alignment algorithms. 
 
-### [grecromancer]
+### [grecromancer](https://github.com/PolyglotToolkit/grecromancer)
 
 High-quality, end-to-end TTS for Classical Latin and Attic Ancient Greek. 
 
